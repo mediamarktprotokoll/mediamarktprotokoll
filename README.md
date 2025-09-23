@@ -6,20 +6,19 @@
 - Experimenting with Lua, PHP, Node.js, and JavaScript
 - I also do custom discord bots with FiveM ingame stuff and more stuff to
 - U can reach me on discord @mediamarktprotokoll
-- <a href="https://discord.com/users/1353829225978658930">
+<a href="https://discord.com/users/1353829225978658930">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 ---
 
-## Contact
-
+<!--## Contact-->
 <!--  -:speech_balloon: How to reach me [Discord](https://discord.com/users/1353829225978658930)
 -->
 
 ---
 
-## Socials
+<!--## Socials-->
 
 <!-- <a href="https://discord.com/users/1353829225978658930">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
