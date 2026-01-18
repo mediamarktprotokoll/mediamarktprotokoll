@@ -54,7 +54,7 @@
 
 ## 📌 Projects
 
-> [CRIMELIFEALLSTARS](https://discord.gg/crimelifeallstars)
+> [CRIMELIFEALLSTARS](https://discord.gg/clallstars)
 
 ---
 
