@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey,
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;FiveM+%2F+Lua+Scripter;Discord+Bot+Developer;Building+PHANTOMCL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Discord+Bot+Developer;Building+PHANTOMCL)](https://git.io/typing-svg)
 
 <a href="https://discord.com/users/1353829225978658930">
   <img src="https://img.shields.io/badge/Discord-mediamarktprotokoll-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
