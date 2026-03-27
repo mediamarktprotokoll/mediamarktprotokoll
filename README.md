@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Unknow-1337
-
+# 👋 Hey,
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;FiveM+%2F+Lua+Scripter;Discord+Bot+Developer;Building+CRIMELIFEALLSTARS+V2)](https://git.io/typing-svg)
 
 <a href="https://discord.com/users/1353829225978658930">
@@ -14,7 +13,7 @@
 
 ## 🚀 Currently Working On
 
-> 🎮 **[CRIMELIFEALLSTARS V2](https://discord.gg/clallstars)** — A custom FiveM roleplay server with full-stack development: Lua scripts, frontend dashboards & Discord integrations.
+> 🎮 **[PHANTOM CRIMELIFE](https://discord.gg/phantomcl)** — A custom FiveM CRIME & PVP server with development: Lua scripts, frontend dashboards & Discord integrations.
 
 ---
 
@@ -43,24 +42,22 @@
 - 🌐 **Frontend Development** — HTML, CSS, JS
 - 🎮 **FiveM / Lua** — Custom game scripts & server-side logic
 - 🤖 **Discord Bots** — Automation, integrations & more
-- ⚙️ **Backend** — Node.js & PHP for APIs and web apps
 
 ---
 
 ## 📌 Featured Project
 
-<a href="https://discord.gg/clallstars">
+<a href="https://discord.gg/phantomcl">
   <img src="https://img.shields.io/badge/CRIMELIFEALLSTARS-Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-> A full-scale FiveM roleplay server — custom scripts, economy systems, Discord bot integrations & a full web frontend. Currently in active development as **V2**.
 
 ---
 
 ## 📬 Contact
 
-<a href="https://discord.com/users/1353829225978658930">
-  <img src="https://img.shields.io/badge/Discord-@mediamarktprotokoll-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.com/users/523661587781910538">
+  <img src="https://img.shields.io/badge/Discord-@mediamarktprotokoll.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 ---
