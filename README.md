@@ -1,61 +1,70 @@
-# I'm into:
+<div align="center">
 
-<!-- - Learning Frameworks & C#-->
-- :seedling: I’m currently working on [CRIMELIFEALLSTARS V2]
-- Frontend Development
-- Experimenting with Lua, PHP, Node.js, and JavaScript
-- I also do custom discord bots with FiveM ingame stuff and more stuff to
-- U can reach me on discord @mediamarktprotokoll
+# 👋 Hey, I'm Unknow-1337
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;FiveM+%2F+Lua+Scripter;Discord+Bot+Developer;Building+CRIMELIFEALLSTARS+V2)](https://git.io/typing-svg)
+
 <a href="https://discord.com/users/1353829225978658930">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-mediamarktprotokoll-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🚀 Currently Working On
+
+> 🎮 **[CRIMELIFEALLSTARS V2](https://discord.gg/clallstars)** — A custom FiveM roleplay server with full-stack development: Lua scripts, frontend dashboards & Discord integrations.
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+---
+
+## 🧰 Dev Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎯 Focus Areas
+
+- 🌐 **Frontend Development** — HTML, CSS, JS
+- 🎮 **FiveM / Lua** — Custom game scripts & server-side logic
+- 🤖 **Discord Bots** — Automation, integrations & more
+- ⚙️ **Backend** — Node.js & PHP for APIs and web apps
+
+---
+
+## 📌 Featured Project
+
+<a href="https://discord.gg/clallstars">
+  <img src="https://img.shields.io/badge/CRIMELIFEALLSTARS-Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+> A full-scale FiveM roleplay server — custom scripts, economy systems, Discord bot integrations & a full web frontend. Currently in active development as **V2**.
+
+---
+
+## 📬 Contact
+
+<a href="https://discord.com/users/1353829225978658930">
+  <img src="https://img.shields.io/badge/Discord-@mediamarktprotokoll-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 ---
 
-<!--## Contact-->
-<!--  -:speech_balloon: How to reach me [Discord](https://discord.com/users/1353829225978658930)
--->
-
----
-
-<!--## Socials-->
-
-<!-- <a href="https://discord.com/users/1353829225978658930">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a> -->
-
----
-
-## Tech Stack
-
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
----
-
-## Dev Tools
-
-![VS Code](https://img.shields.io/badge/VS%20CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-<!--## GitHub Stats-->
-
-<!-- You can use https://github.com/anuraghazra/github-readme-stats or similar -->
-<!-- Example: -->
-<!-- ![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unknow-1337&show_icons=true&theme=tokyonight) -->
-
----
-
-## 📌 Projects
-
-> [CRIMELIFEALLSTARS](https://discord.gg/clallstars)
-
----
-
-<!-- Reference image from officialchristheg’s README style -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Unknow-1337&style=for-the-badge&color=58a6ff" alt="Profile Views" />
+</div>
