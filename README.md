@@ -13,8 +13,8 @@
 
 ## 🚀 Currently Working On
 
-> 🎮 **[PHANTOM CRIMELIFE](https://discord.gg/phantomcl)** — A custom FiveM CRIME & PVP server with development: Lua scripts, frontend dashboards & Discord integrations.
 
+> 🎮 **[PHANTOM CRIMELIFE](https://discord.gg/phantom-rp)** — A custom FiveM Roleplay server with development: Lua scripts, frontend dashboards & Discord integrations.
 ---
 
 ## 🛠️ Tech Stack
@@ -47,7 +47,7 @@
 
 ## 📌 Featured Project
 
-<a href="https://discord.gg/phantomcl">
+<a href="https://discord.gg/phantom-rp">
   <img src="https://img.shields.io/badge/PHANTOMCL-Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
