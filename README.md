@@ -14,7 +14,7 @@
 ## 🚀 Currently Working On
 
 
-> 🎮 **[PHANTOM CRIMELIFE](https://discord.gg/phantom-rp)** — A custom FiveM Roleplay server with development: Lua scripts, frontend dashboards & Discord integrations.
+> 🎮 **[PHANTOM ROLEPLAY](https://discord.gg/phantom-rp)** — A custom FiveM Roleplay server with development: Lua scripts, frontend dashboards & Discord integrations.
 ---
 
 ## 🛠️ Tech Stack
